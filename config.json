@@ -1,0 +1,17 @@
+{
+  "apiKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx",
+  "apiVersion": "2.1",
+  "useDevServer": true,
+  "tickers": [
+    {
+      "id": "btc_usd",
+      "btcOrderAmount": 0.001,
+      "isEnabled": true
+    },
+    {
+      "id": "btc_clp",
+      "btcOrderAmount": 0.002,
+      "isEnabled": true
+    }
+  ]
+}
